@@ -90,7 +90,7 @@ Form labels and validation
 High contrast color scheme
 Keyboard navigation support
 
-Contributing
+**Contributing**
 
 This is a personal portfolio project, but suggestions and feedback are welcome! Feel free to:
 
@@ -98,11 +98,11 @@ Open issues for bugs or suggestions
 Submit pull requests for improvements
 Share feedback on design or functionality
 
-License
+**License**
 
 This project is open source and available under the MIT License.
 
-Acknowledgments
+**Acknowledgments**
 
 PLP Academy - For the inspiring hackathon challenge
 Web Development Community - For continuous learning and support
