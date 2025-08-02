@@ -1,10 +1,13 @@
 **Personal Portfolio Website**
 
 A modern, responsive personal portfolio website built with pure HTML and CSS, featuring a stunning dark mode design.
+
 ** Project Overview**
 This portfolio website showcases my skills, background, and achievements as a web developer. It features a professional dark theme with glowing cyan accents, smooth animations, 
 and a fully responsive design that works perfectly on all devices.
+ 
  **Features**
+ 
  Design & Visual
 
 Modern Dark Theme - Professional dark color scheme with cyan accents
@@ -37,6 +40,7 @@ portfolio-website/
 ├── cv.pdf             # Downloadable CV (add your own)
 ├── README.md          # Project documentation
 └── assets/            # Optional: for additional images
+ 
  Technologies Used
 
 HTML5 - Semantic markup and structure
@@ -46,6 +50,7 @@ CSS Flexbox - Flexible box layouts
 CSS Animations - Smooth transitions and effects
 
 **Customization Guide**
+
 Changing Colors
 The main accent color is defined in CSS. To change the cyan theme:
 css/* Replace #64ffda with your preferred color */
@@ -58,6 +63,7 @@ Create corresponding CSS styles
 Update navigation links if needed
 
 Modifying Animations
+
 All animations are CSS-based and can be customized by modifying the transition and transform properties.
 
 Responsive Breakpoints
@@ -68,8 +74,8 @@ Mobile: Below 768px
 Small Mobile: Below 480px
 
 Key Highlights
-CSS-Only Features
 
+CSS-Only Features
 Smooth scrolling navigation
 Hover animations and effects
 Form styling with focus states
@@ -85,6 +91,7 @@ High contrast color scheme
 Keyboard navigation support
 
 Contributing
+
 This is a personal portfolio project, but suggestions and feedback are welcome! Feel free to:
 
 Open issues for bugs or suggestions
@@ -92,6 +99,7 @@ Submit pull requests for improvements
 Share feedback on design or functionality
 
 License
+
 This project is open source and available under the MIT License.
 
 Acknowledgments
